@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文分享 · 个人科研版"
+  short_description: "论文精读与组会幻灯片，支持中文讲稿和可选的本地配音视频"
+  default_prompt: "使用 $paper-share 将这篇论文整理为组会汇报，交付幻灯片 PDF、LaTeX 源码和中文讲稿。"

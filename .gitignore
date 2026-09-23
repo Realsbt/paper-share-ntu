@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.xdv
+*.fls
+*.fdb_latexmk
+*.synctex.gz

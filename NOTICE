@@ -1,0 +1,12 @@
+Adapted from Paper Share Skills and SUSTech Slides Template by 杨昊波 (Haobo Yang).
+https://github.com/yhbcode000/paper-share-skills
+https://github.com/yhbcode000/sustech-slides-template
+Apache License 2.0 is included in LICENSE. Original theme author comments retained.
+
+Personal adaptation, 2026-09-20:
+Restored the original packaged sustech theme, layouts and paper-to-beamer workflow.
+Made presenter metadata configurable and added the NTU Singapore logo.
+Bundled Noto CJK fonts with their license for compatible PDF text mapping.
+Made compilation paths portable and removed private workspace/tool dependencies.
+Removed Bilibili upload/login/title classification and automatic publishing.
+Kept optional local video generation with physical-page narration alignment.

@@ -1,0 +1,5 @@
+# Original theme; portable path separator for Linux/macOS/Windows.
+use Config;
+$pdf_mode = 5;
+$xelatex = 'xelatex -no-shell-escape -interaction=nonstopmode -halt-on-error %O %S';
+$ENV{'TEXINPUTS'} = './sustech-theme//' . $Config{path_sep} . ($ENV{'TEXINPUTS'} // '');
